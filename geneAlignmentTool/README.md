@@ -8,7 +8,7 @@ The program uses a heuristic algorithm to begin aligning the gene against the ge
 
 The program is written in python. Use this command to run.
 
-'python geneAlignmentTool.py'
+'''python geneAlignmentTool.py'''
 
 The program takes genome and gene sequences from fasta/fna files.
 
